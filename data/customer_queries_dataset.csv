@@ -1,0 +1,701 @@
+query_id,query_text,category,priority,is_hard_case
+Q0001,please share pricing for 500 3-phase contactors for Metro Fabricators.,Quotation,Medium,False
+Q0002,"Extremely unhappy with the service, order ORD-50306 was delivered incomplete.",Complaint,High,False
+Q0003,"My order ORD-74686 has not arrived yet, please check",Order Status,Medium,False
+Q0004,please share pricing for 250 industrial gaskets for Metro Fabricators.,Quotation,Medium,False
+Q0005,What is the status of my order ORD-83000?,Order Status,Medium,False
+Q0006,"We are looking to procure 75 solenoid valves, kindly send your best quote",Quotation,Medium,False
+Q0007,"I placed an order ORD-11504 3 days back, when will it be delivered?",Order Status,Low,False
+Q0008,"Please update me on order ORD-46048, it's been 10 days.",Order Status,Medium,False
+Q0009,"Please update me on order ORD-80697, it's been 2 weeks.",Order Status,Medium,False
+Q0010,Kindly share the courier tracking number for order ORD-16175,Order Status,Low,False
+Q0011,Is there a minimum order quantity for PVC pipe fittings?,General Enquiry,Low,False
+Q0012,Order ORD-94259 was supposed to arrive a week ago.,Order Status,Medium,False
+Q0013,"We are looking to procure 500 cable glands, kindly send your best quote.",Quotation,Medium,False
+Q0014,Could you provide bulk pricing if we order 1000 aluminium extrusions?,Quotation,Medium,False
+Q0015,Do you export circuit breakers outside India?,General Enquiry,Medium,False
+Q0016,Do you have a catalogue for stainless steel washers?,General Enquiry,Low,False
+Q0017,I am cancelling future orders unless order ORD-89818 issue is resolved.,Complaint,High,False
+Q0018,The invoice for order ORD-18326 has incorrect GST calculation.,Complaint,Medium,False
+Q0019,do you export industrial gaskets outside India?,General Enquiry,Medium,False
+Q0020,"Terrible packaging, ball bearings (SKF 6205) were broken when the box was opened.",Complaint,High,False
+Q0021,"I need urgent update on oder ORD-13905, production is stalled without it",Order Status,High,False
+Q0022,"still waiting for order ORD-70589, any update?",Order Status,Medium,False
+Q0023,"I want a refund for order ORD-95181, the quality is very poor",Complaint,High,False
+Q0024,"My order ORD-25014 has not arrived yet, please check",Order Status,Medium,False
+Q0025,"Please update me on order ORD-70142, it's been a week",Order Status,Medium,False
+Q0026,can you track order ORD-26828 for me?,Order Status,Low,False
+Q0027,"We received rusted aluminium extrusions, need immediate replacement.",Complaint,High,False
+Q0028,"Hi, need a formal quotation for 250 flange couplings for our upcoming project.",Quotation,Medium,False
+Q0029,What is the status of my order ORD-30379?,Order Status,Medium,False
+Q0030,"Still waiting for order ORD-49117, any update?",Order Status,Medium,False
+Q0031,"Hi, need a formal quotation for 5000 3-phase contactors for our upcoming project.",Quotation,Medium,False
+Q0032,"The PVC pipe fittings I recieved is damaged, this is unacceptable.",Complaint,High,False
+Q0033,Can you send me a quote for 50 units of timing belts?,Quotation,Medium,False
+Q0034,"Requesting revised quotation, last quote for control relays has expired.",Quotation,Medium,False
+Q0035,Can you send me a quote for 5000 units of industrial gaskets?,Quotation,Medium,False
+Q0036,"the industrial gaskets I recieved is damaged, this is unacceptable",Complaint,High,False
+Q0037,"I want a refund for order ORD-73699, the quality is very poor.",Complaint,High,False
+Q0038,"Order ORD-57052 arrived with wrong items, very disappointed.",Complaint,High,False
+Q0039,Your team never responded to my last 3 emails about oder ORD-83000.,Complaint,High,False
+Q0040,What would be teh cost for 300 3-phase contactors including GST?,Quotation,Medium,False
+Q0041,Could you provide bulk pricing if we oder 50 brass connectors?,Quotation,Medium,False
+Q0042,"Need quotation urgently, 250 hydraulic seals required for a tender submission.",Quotation,High,False
+Q0043,Can you track order ORD-86622 for me?,Order Status,Low,False
+Q0044,What is the warranty period on industrial gaskets?,General Enquiry,Medium,False
+Q0045,is there a minimum order quantity for timing belts?,General Enquiry,Low,False
+Q0046,Do you provide installation support for ball bearings (SKF 6205)?,General Enquiry,Low,False
+Q0047,can I visit your warehouse to see samples of M8 hex bolts?,General Enquiry,Low,False
+Q0048,"Still waiting for order ORD-51347, any update?",Order Status,Medium,False
+Q0049,Do you offer discount for 5000+ units of conveyor belts?,Quotation,Low,False
+Q0050,Please share pricing for 2000 brass connectors for Precision Tools Co.,Quotation,Medium,False
+Q0051,Has order ORD-11504 been shipped yet?,Order Status,Medium,False
+Q0052,Do you offer discount for 250+ units of hydraulic seals?,Quotation,Low,False
+Q0053,The stainless steel washers does not match the specifications quoted earlier,Complaint,High,False
+Q0054,could you provide bulk pricing if we oder 250 servo motors?,Quotation,Medium,False
+Q0055,"Requesting price list for rubber grommets, quantity around 50 pcs.",Quotation,Medium,False
+Q0056,Just checking if you still manufacture pressure gauges,General Enquiry,Low,False
+Q0057,The timing belts stopped working within 3 days of delivery,Complaint,High,False
+Q0058,Can you send me a quote for 20 units of hydraulic seals?,Quotation,Medium,False
+Q0059,Has order ORD-84364 been shipped yet?,Order Status,Medium,False
+Q0060,Do you export aluminium extrusions outside India?,General Enquiry,Medium,False
+Q0061,What would be the cost for 100 pressure gauges including GST?,Quotation,Medium,False
+Q0062,Kindly share the courier tracking number for order ORD-75612.,Order Status,Low,False
+Q0063,"Terrible packaging, circuit breakers were broken when the box was opened.",Complaint,High,False
+Q0064,could you provide bulk pricing if we order 2000 control relays?,Quotation,Medium,False
+Q0065,Do you export ball bearings (SKF 6205) outside India?,General Enquiry,Medium,False
+Q0066,The 3-phase contactors does not match the specifications quoted earlier,Complaint,High,False
+Q0067,"We are looking to procure 20 flange couplings, kindly send your best quote",Quotation,Medium,False
+Q0068,"Need quotation urgently, 300 conveyor belts required for a tender submission",Quotation,High,False
+Q0069,I need a quotation for 50 servo motors.,Quotation,Medium,False
+Q0070,Is there a minimum order quantity for control relays?,General Enquiry,Low,False
+Q0071,Kindly share the courier tracking number for oder ORD-54597.,Order Status,Low,False
+Q0072,"send quotation asap for 500 M8 hex bolts, comparing with another vendor",Quotation,High,False
+Q0073,Can you track order ORD-30379 for me?,Order Status,Low,False
+Q0074,Could you provide bulk pricing if we order 100 M8 hex bolts?,Quotation,Medium,False
+Q0075,The carbon brushes does not match the specifications quoted earlier.,Complaint,High,False
+Q0076,"Requesting quote for 100 units, and please confirm if defective batch is being replaced.",Complaint,High,True
+Q0077,The invoice for order ORD-87397 has incorrect GST calculation.,Complaint,Medium,False
+Q0078,Just checking if you still manufacture circuit breakers.,General Enquiry,Low,False
+Q0079,"Hi, need a formal quotation for 20 circuit breakers for our upcoming project.",Quotation,Medium,False
+Q0080,Order ORD-57052 was supposed to arrive yesterday ago,Order Status,Medium,False
+Q0081,please share pricing for 500 3-phase contactors for Apex Components,Quotation,Medium,False
+Q0082,"My order ORD-47930 has not arrived yet, please check.",Order Status,Medium,False
+Q0083,Can I visit your warehouse to see samples of brass connectors?,General Enquiry,Low,False
+Q0084,When can I expect delivery of order ORD-60432?,Order Status,Low,False
+Q0085,Do you offer discount for 50+ units of hydraulic seals?,Quotation,Low,False
+Q0086,do you export cable glands outside India?,General Enquiry,Medium,False
+Q0087,"Kindly quote your best rate for 2000 control relays, delivery to Chennai.",Quotation,Medium,False
+Q0088,"i placed an order ORD-97841 3 days back, when will it be delivered?",Order Status,Medium,False
+Q0089,i need a quotation for 75 rubber grommets.,Quotation,Medium,False
+Q0090,"We are looking to procure 1000 hydraulic seals, kindly send your best quote",Quotation,Medium,False
+Q0091,Do you have a catalogue for cable glands?,General Enquiry,Low,False
+Q0092,"Order ORD-42098 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0093,"Requesting revised quotation, last quote for M8 hex bolts has expired.",Quotation,Medium,False
+Q0094,are you open on Saturdays?,General Enquiry,Low,False
+Q0095,Precision Tools Co would like a quote for 300 timing belts with payment terms.,Quotation,Medium,False
+Q0096,"Order ORD-48427 arrived with wrong items, very disappointed.",Complaint,High,False
+Q0097,Is there a minimum order quantity for circuit breakers?,General Enquiry,Low,False
+Q0098,"I need urgent update on order ORD-48469, production is stalled without it.",Order Status,High,False
+Q0099,"We are looking to procure 50 cable glands, kindly send your best quote.",Quotation,Medium,False
+Q0100,"Send quotation asap for 500 stainless steel washers, comparing with another vendor.",Quotation,High,False
+Q0101,i am cancelling future orders unless order ORD-87236 issue is resolved.,Complaint,High,False
+Q0102,"Send quotation asap for 5000 hydraulic seals, comparing with another vendor.",Quotation,High,False
+Q0103,is there a minimum order quantity for carbon brushes?,General Enquiry,Low,False
+Q0104,When can I expect delivery of order ORD-55082?,Order Status,Medium,False
+Q0105,I need a quotation for 1000 timing belts,Quotation,Medium,False
+Q0106,"still waiting for order ORD-40021, any update?",Order Status,Medium,False
+Q0107,Do you offer discount for 100+ units of cable glands?,Quotation,Low,False
+Q0108,Vikram Enterprises would like a quote for 100 timing belts with payment terms,Quotation,Medium,False
+Q0109,"send quotation asap for 1000 servo motors, comparing with another vendor.",Quotation,High,False
+Q0110,Could you provide bulk pricing if we order 75 rubber grommets?,Quotation,Medium,False
+Q0111,"I placed an order ORD-26483 a month back, when will it be delivered?",Order Status,Medium,False
+Q0112,The ball bearings (SKF 6205) does not match the specifications quoted earlier.,Complaint,High,False
+Q0113,"Kindly quote your best rate for 5000 stainless steel washers, delivery to Chennai.",Quotation,Medium,False
+Q0114,Please confirm price and lead time for 500 3-phase contactors.,Quotation,Medium,False
+Q0115,"Extremely unhappy with the service, order ORD-38785 was delivered incomplete.",Complaint,High,False
+Q0116,"My order ORD-44718 has not arrived yet, please check.",Order Status,Medium,False
+Q0117,"I need urgent update on order ORD-23434, production is stalled without it.",Order Status,High,False
+Q0118,What is the warranty period on control relays?,General Enquiry,Low,False
+Q0119,"I placed an order ORD-15695 10 days back, when will it be delivered?",Order Status,Medium,False
+Q0120,Can you send me a quote for 100 units of 3-phase contactors?,Quotation,Medium,False
+Q0121,The invoice for order ORD-74042 has incorrect GST calculation,Complaint,Medium,False
+Q0122,What is the status of my order ORD-38785?,Order Status,Medium,False
+Q0123,Please confirm price and lead time for 50 3-phase contactors.,Quotation,Medium,False
+Q0124,hi,General Enquiry,Low,True
+Q0125,"Still waiting for order ORD-59735, any update?",Order Status,Medium,False
+Q0126,Could you provide bulk pricing if we order 250 carbon brushes?,Quotation,Medium,False
+Q0127,Is there a minimum order quantity for ball bearings (SKF 6205)?,General Enquiry,Low,False
+Q0128,"The solenoid valves I received is damaged, this is unacceptable.",Complaint,High,False
+Q0129,what is the warranty period on solenoid valves?,General Enquiry,Low,False
+Q0130,"We are looking to procure 1000 flange couplings, kindly send your best quote",Quotation,Medium,False
+Q0131,I need a quotation for 300 rubber grommets,Quotation,Medium,False
+Q0132,"Following up on quotation sent last month, also wanted to know order status of ORD-44213.",Quotation,Medium,True
+Q0133,"We are looking to procure 5000 cable glands, kindly send your best quote.",Quotation,Medium,False
+Q0134,I am cancelling future orders unless order ORD-20328 issue is resolved.,Complaint,High,False
+Q0135,"the rubber grommets I received is damaged, this is unacceptable.",Complaint,High,False
+Q0136,Please share pricing for 20 M8 hex bolts for Metro Fabricators.,Quotation,Medium,False
+Q0137,i need a quotation for 100 control relays.,Quotation,Medium,False
+Q0138,the hydraulic seals stopped working within yesterday of delivery.,Complaint,High,False
+Q0139,Kindly share the courier tracking number for order ORD-13478,Order Status,Low,False
+Q0140,Can you send me a quote for 500 units of rubber grommets?,Quotation,Medium,False
+Q0141,"We are looking to procure 100 carbon brushes, kindly send your best quote.",Quotation,Medium,False
+Q0142,"Hi, need a formal quotation for 20 servo motors for our upcoming project.",Quotation,Medium,False
+Q0143,"My order ORD-18326 has not arrived yet, please check.",Order Status,Medium,False
+Q0144,Just checking if you still manufacture servo motors.,General Enquiry,Low,False
+Q0145,"Extremely unhappy with the service, order ORD-73699 was delivered incomplete.",Complaint,High,False
+Q0146,Is order ORD-74042 delayed? We haven't received any notification.,Order Status,High,False
+Q0147,Can you share your GST number for our records?,General Enquiry,Low,False
+Q0148,"Requesting revised quotation, last quote for pressure gauges has expired.",Quotation,Medium,False
+Q0149,can you track order ORD-32431 for me?,Order Status,Low,False
+Q0150,Do you offer discount for 1000+ units of flange couplings?,Quotation,Low,False
+Q0151,Order ORD-99192 was supposed to arrive a week ago.,Order Status,Medium,False
+Q0152,"My order ORD-79352 has not arrived yet, please check.",Order Status,Medium,False
+Q0153,this is the second time we received defective timing belts from you.,Complaint,High,False
+Q0154,"My order ORD-80010 has not arrived yet, please check.",Order Status,Medium,False
+Q0155,SS Traders would like a quote for 500 solenoid valves with payment terms.,Quotation,Medium,False
+Q0156,What would be the cost for 75 brass connectors including GST?,Quotation,Medium,False
+Q0157,"Order ORD-45093 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0158,What would be the cost for 2000 control relays including GST?,Quotation,Medium,False
+Q0159,Do you offer discount for 2000+ units of hydraulic seals?,Quotation,Low,False
+Q0160,Kindly share the courier tracking number for order ORD-99353.,Order Status,Low,False
+Q0161,When can I expect delivery of order ORD-21915?,Order Status,Medium,False
+Q0162,"I need urgent update on order ORD-45382, production is stalled without it.",Order Status,High,False
+Q0163,The invoice for order ORD-41385 has incorrect GST calculation.,Complaint,Medium,False
+Q0164,Order ORD-56566 shows dispatched but tracking is not updating.,Order Status,Medium,False
+Q0165,just checking if you still manufacture stainless steel washers.,General Enquiry,Medium,False
+Q0166,Order ORD-95181 was supposed to arrive yesterday ago,Order Status,High,False
+Q0167,The invoice for order ORD-62350 has incorrect GST calculation,Complaint,Medium,False
+Q0168,Do you have a catalogue for hydraulic seals?,General Enquiry,Low,False
+Q0169,What is the status of my order ORD-83579?,Order Status,Medium,False
+Q0170,Kindly share the courier tracking number for oder ORD-89507.,Order Status,Low,False
+Q0171,Do you export conveyor belts outside India?,General Enquiry,Medium,False
+Q0172,Just checking if you still manufacture rubber grommets,General Enquiry,Low,False
+Q0173,"My order ORD-57400 has not arrived yet, please check.",Order Status,Medium,False
+Q0174,Kindly share the courier tracking number for order ORD-83000.,Order Status,Low,False
+Q0175,what is the warranty period on conveyor belts?,General Enquiry,Low,False
+Q0176,"kindly quote your best rate for 20 circuit breakers, delivery to Chennai.",Quotation,Medium,False
+Q0177,kindly share the courier tracking number for order ORD-62581.,Order Status,Low,False
+Q0178,Can I visit your warehouse to see samples of M8 hex bolts?,General Enquiry,Low,False
+Q0179,"Extremely unhappy with the service, order ORD-36071 was delivered incomplete.",Complaint,High,False
+Q0180,"I want a refund for order ORD-80010, the quality is very poor.",Complaint,High,False
+Q0181,"My order ORD-92397 has not arrived yet, please check.",Order Status,Medium,False
+Q0182,"I placed an order ORD-41571 3 days back, when will it be delivered?",Order Status,Medium,False
+Q0183,"Kindly quote your best rate for 75 conveyor belts, delivery to Chennai.",Quotation,Medium,False
+Q0184,Can you send me a quote for 500 units of 3-phase contactors?,Quotation,Medium,False
+Q0185,can I visit your warehouse to see samples of aluminium extrusions?,General Enquiry,Low,False
+Q0186,Just checking if you still manufacture conveyor belts,General Enquiry,Low,False
+Q0187,I am cancelling future orders unless order ORD-94259 issue is resolved.,Complaint,High,False
+Q0188,"Kindly quote your best rate for 50 3-phase contactors, delivery to Chennai.",Quotation,Medium,False
+Q0189,"Need qutation urgently, 75 circuit breakers required for a tender submission",Quotation,High,False
+Q0190,"Need quotation urgently, 100 carbon brushes required for a tender submission.",Quotation,High,False
+Q0191,"I want a refund for order ORD-84341, the quality is very poor.",Complaint,High,False
+Q0192,When can I expect delivery of order ORD-10851?,Order Status,Medium,False
+Q0193,The PVC pipe fittings does not match the specifications quoted earlier.,Complaint,High,False
+Q0194,Is there a minimum order quantity for brass connectors?,General Enquiry,Low,False
+Q0195,Kindly share the courier tracking number for order ORD-99353,Order Status,Medium,False
+Q0196,Just checking if you still manufacture flange couplings.,General Enquiry,Low,False
+Q0197,"Hi, need a formal quotation for 1000 solenoid valves for our upcoming project.",Quotation,Medium,False
+Q0198,I need a quotation for 100 conveyor belts,Quotation,Medium,False
+Q0199,Can you send me a quote for 20 units of control relays?,Quotation,Medium,False
+Q0200,"Requesting price list for solenoid valves, quantity around 2000 pcs.",Quotation,Medium,False
+Q0201,"Requesting price list for circuit breakers, quantity around 5000 pcs.",Quotation,Medium,False
+Q0202,I need a qutation for 20 timing belts.,Quotation,Medium,False
+Q0203,Please share pricing for 500 ball bearings (SKF 6205) for SS Traders.,Quotation,Medium,False
+Q0204,Do you have a catalogue for 3-phase contactors?,General Enquiry,Low,False
+Q0205,i need a quotation for 250 stainless steel washers.,Quotation,High,False
+Q0206,could you provide bulk pricing if we order 75 flange couplings?,Quotation,Low,False
+Q0207,Do you provide installation support for PVC pipe fittings?,General Enquiry,Low,False
+Q0208,Is there a minimum order quantity for aluminium extrusions?,General Enquiry,Low,False
+Q0209,"we are looking to procure 2000 brass connectors, kindly send your best quote",Quotation,Medium,False
+Q0210,This is the second time we received defective industrial gaskets from you,Complaint,High,False
+Q0211,"I need urgent update on order ORD-22156, production is stalled without it.",Order Status,High,False
+Q0212,Just checking if you still manufacture timing belts.,General Enquiry,Low,False
+Q0213,"Still waiting for order ORD-54118, any update?",Order Status,Medium,False
+Q0214,The invoice for order ORD-37869 has incorrect GST calculation.,Complaint,Medium,False
+Q0215,Please confirm price and lead time for 250 M8 hex bolts.,Quotation,Medium,False
+Q0216,The solenoid valves stopped working within 10 days of delivery.,Complaint,High,False
+Q0217,I am cancelling future orders unless order ORD-24371 issue is resolved.,Complaint,High,False
+Q0218,Vikram Enterprises would like a quote for 1000 control relays with payment terms.,Quotation,Medium,False
+Q0219,The M8 hex bolts does not match the specifications quoted earlier,Complaint,High,False
+Q0220,Order ORD-89131 was supposed to arrive a month ago,Order Status,Medium,False
+Q0221,This is the second time we received defective industrial gaskets from you.,Complaint,High,False
+Q0222,What are your business hours?,General Enquiry,Low,False
+Q0223,"Hi, need a formal quotation for 75 M8 hex bolts for our upcoming project.",Quotation,Medium,False
+Q0224,"Need quotation urgently, 20 3-phase contactors required for a tender submission",Quotation,High,False
+Q0225,"send qutation asap for 100 hydraulic seals, comparing with another vendor.",Quotation,High,False
+Q0226,"Please update me on oder ORD-92240, it's been 3 days.",Order Status,Medium,False
+Q0227,Order ORD-20458 shows dispatched but tracking is not updating.,Order Status,Medium,False
+Q0228,What is teh status of my oder ORD-95181?,Order Status,Medium,False
+Q0229,Do you provide installation support for flange couplings?,General Enquiry,Low,False
+Q0230,"Order ORD-38657 - partial delivery received, where is the rest?",Order Status,Low,False
+Q0231,Just checking if you still manufacture carbon brushes.,General Enquiry,Low,False
+Q0232,"need quotation urgently, 2000 hydraulic seals required for a tender submission",Quotation,High,False
+Q0233,"The flange couplings I received is damaged, this is unacceptable.",Complaint,High,False
+Q0234,Can I visit your warehouse to see samples of flange couplings?,General Enquiry,Low,False
+Q0235,"Send quotation asap for 300 solenoid valves, comparing with another vendor.",Quotation,High,False
+Q0236,what are your business hours?,General Enquiry,Low,False
+Q0237,Is order ORD-76237 delayed? We haven't received any notification.,Order Status,High,False
+Q0238,Please confirm price and lead time for 5000 pressure gauges.,Quotation,Medium,False
+Q0239,"Need quotation urgently, 50 brass connectors required for a tender submission.",Quotation,High,False
+Q0240,The invoice for order ORD-38746 has incorrect GST calculation.,Complaint,Medium,False
+Q0241,Is order ORD-44671 delayed? We haven't received any notification.,Order Status,High,False
+Q0242,"Order ORD-99166 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0243,Just checking if you still manufacture stainless steel washers.,General Enquiry,Low,False
+Q0244,Order ORD-31643 was supposed to arrive 3 days ago.,Order Status,Medium,False
+Q0245,"Requesting revised quotation, last quote for flange couplings has expired.",Quotation,Medium,False
+Q0246,"Still waiting for order ORD-28131, any update?",Order Status,Medium,False
+Q0247,"My order ORD-19071 has not arrived yet, please check.",Order Status,Medium,False
+Q0248,Just checking if you still manufacture hydraulic seals.,General Enquiry,Low,False
+Q0249,Do you export cable glands outside India?,General Enquiry,Medium,False
+Q0250,Can you send me a quote for 250 units of circuit breakers?,Quotation,Medium,False
+Q0251,can you send me a quote for 1000 units of carbon brushes?,Quotation,Medium,False
+Q0252,Is there a minimum order quantity for cable glands?,General Enquiry,Low,False
+Q0253,"Order ORD-16006 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0254,Can you track order ORD-79163 for me?,Order Status,Low,False
+Q0255,Can you send me a quote for 20 units of circuit breakers?,Quotation,Medium,False
+Q0256,What payment methods do you accept?,General Enquiry,Low,False
+Q0257,Order ORD-44718 shows dispatched but tracking is not updating.,Order Status,Medium,False
+Q0258,Order ORD-31417 was supposed to arrive 10 days ago.,Order Status,Medium,False
+Q0259,"I placed an order ORD-80381 3 days back, when will it be delivered?",Order Status,Medium,False
+Q0260,I need a quotation for 2000 rubber grommets,Quotation,Medium,False
+Q0261,is there a minimum order quantity for industrial gaskets?,General Enquiry,Low,False
+Q0262,"The timing belts I received is damaged, this is unacceptable.",Complaint,High,False
+Q0263,What would be the cost for 5000 servo motors including GST?,Quotation,Medium,False
+Q0264,"Need qutation urgently, 300 cable glands required for a tender submission.",Quotation,High,False
+Q0265,Kindly share the courier tracking number for order ORD-54597.,Order Status,Low,False
+Q0266,"Requesting price list for 3-phase contactors, quantity around 300 pcs.",Quotation,Medium,False
+Q0267,Can I visit your warehouse to see samples of cable glands?,General Enquiry,Low,False
+Q0268,Please share pricing for 1000 industrial gaskets for Metro Fabricators.,Quotation,Medium,False
+Q0269,"I placed an order ORD-30033 2 weeks back, when will it be delivered?",Order Status,Medium,False
+Q0270,metro Fabricators would like a quote for 20 aluminium extrusions with payment terms.,Quotation,Medium,False
+Q0271,is there a minimum order quantity for stainless steel washers?,General Enquiry,Low,False
+Q0272,what would be the cost for 500 cable glands including GST?,Quotation,Medium,False
+Q0273,Could you provide bulk pricing if we order 100 hydraulic seals?,Quotation,High,False
+Q0274,Just checking if you still manufacture cable glands,General Enquiry,Low,False
+Q0275,what is the status of my order ORD-79822?,Order Status,Medium,False
+Q0276,"Hi, need a formal quotation for 500 rubber grommets for our upcoming project.",Quotation,Medium,False
+Q0277,"Not happy with pricing, can you send a better quote before we escalate this order issue?",Quotation,Medium,True
+Q0278,the industrial gaskets stopped working within 5 days of delivery.,Complaint,High,False
+Q0279,The hydraulic seals stopped working within 2 weeks of delivery.,Complaint,High,False
+Q0280,Is there a minimum order quantity for 3-phase contactors?,General Enquiry,Low,False
+Q0281,order ORD-57819 was supposed to arrive 5 days ago.,Order Status,Medium,False
+Q0282,"Send qutation asap for 50 conveyor belts, comparing with another vendor.",Quotation,High,False
+Q0283,"Order ORD-46434 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0284,???,General Enquiry,Low,True
+Q0285,"Please update me on order ORD-61856, it's been a week.",Order Status,Medium,False
+Q0286,"my order ORD-97841 has not arrived yet, please check.",Order Status,Medium,False
+Q0287,The invoice for order ORD-58520 has incorrect GST calculation.,Complaint,Medium,False
+Q0288,"Requesting price list for ball bearings (SKF 6205), quantity around 300 pcs.",Quotation,Medium,False
+Q0289,Kindly share the courier tracking number for order ORD-71348,Order Status,High,False
+Q0290,"terrible packaging, cable glands were broken when the box was opened",Complaint,High,False
+Q0291,Do you provide installation support for timing belts?,General Enquiry,Low,False
+Q0292,The control relays stopped working within 5 days of delivery.,Complaint,High,False
+Q0293,What is the status of my order ORD-82063?,Order Status,Medium,False
+Q0294,The hydraulic seals stopped working within 5 days of delivery.,Complaint,High,False
+Q0295,"send qutation asap for 300 M8 hex bolts, comparing with another vendor.",Quotation,High,False
+Q0296,When can I expect delivery of order ORD-38785?,Order Status,Medium,False
+Q0297,Metro Fabricators would like a quote for 2000 aluminium extrusions with payment terms,Quotation,Medium,False
+Q0298,Order,Order Status,Low,True
+Q0299,do you deliver to Coimbatore?,General Enquiry,Low,False
+Q0300,Do you offer discount for 1000+ units of cable glands?,Quotation,Low,False
+Q0301,the control relays stopped working within 5 days of delivery,Complaint,High,False
+Q0302,"The rubber grommets I received is damaged, this is unacceptable.",Complaint,High,False
+Q0303,"Charged extra amount than quoted for order ORD-38746, please explain",Complaint,Medium,False
+Q0304,"Requesting price list for cable glands, quantity around 50 pcs.",Quotation,Medium,False
+Q0305,When can I expect delivery of order ORD-89507?,Order Status,Low,False
+Q0306,Do you export rubber grommets outside India?,General Enquiry,Medium,False
+Q0307,"Please update me on order ORD-76784, it's been a week.",Order Status,Medium,False
+Q0308,What would be the cost for 2000 carbon brushes including GST?,Quotation,Medium,False
+Q0309,Can you track order ORD-93748 for me?,Order Status,Low,False
+Q0310,Can you track order ORD-47930 for me?,Order Status,Low,False
+Q0311,What would be the cost for 100 solenoid valves including GST?,Quotation,Medium,False
+Q0312,Apex Components would like a quote for 100 solenoid valves with payment terms.,Quotation,Medium,False
+Q0313,I am cancelling future orders unless order ORD-59797 issue is resolved.,Complaint,High,False
+Q0314,Do you export PVC pipe fittings outside India?,General Enquiry,Medium,False
+Q0315,Can you send me a quote for 1000 units of aluminium extrusions?,Quotation,Medium,False
+Q0316,Your team never responded to my last 3 emails about order ORD-89131.,Complaint,High,False
+Q0317,"the pressure gauges I received is damaged, this is unacceptable",Complaint,High,False
+Q0318,"I ordered 500 components 2 weeks ago and still no quotation for the balance quantity, also the first batch had some damaged pieces.",Complaint,High,True
+Q0319,can you track oder ORD-57447 for me?,Order Status,Low,False
+Q0320,can we get a dealership for your products in our region?,General Enquiry,Medium,False
+Q0321,Do you offer discount for 100+ units of industrial gaskets?,Quotation,Low,False
+Q0322,What would be the cost for 2000 stainless steel washers including GST?,Quotation,Medium,False
+Q0323,Can you track order ORD-64987 for me?,Order Status,Low,False
+Q0324,can you track order ORD-42953 for me?,Order Status,Low,False
+Q0325,"need quotation urgently, 1000 ball bearings (SKF 6205) required for a tender submission.",Quotation,High,False
+Q0326,"Need quotation urgently, 2000 conveyor belts required for a tender submission.",Quotation,High,False
+Q0327,is there a minimum order quantity for conveyor belts?,General Enquiry,Low,False
+Q0328,"Still waiting for order ORD-19116, any update?",Order Status,Medium,False
+Q0329,Just checking if you still manufacture M8 hex bolts.,General Enquiry,Low,False
+Q0330,Do you offer discount for 500+ units of aluminium extrusions?,Quotation,Low,False
+Q0331,"Order ORD-70142 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0332,"need quotation urgently, 500 conveyor belts required for a tender submission.",Quotation,High,False
+Q0333,This is the second time we received defective timing belts from you.,Complaint,High,False
+Q0334,"need quotation urgently, 5000 timing belts required for a tender submission.",Quotation,High,False
+Q0335,Your team never responded to my last 3 emails about order ORD-99733.,Complaint,High,False
+Q0336,"order ORD-55082 arrived with wrong items, very disappointed.",Complaint,High,False
+Q0337,"I placed an order ORD-98696 a month back, when will it be delivered?",Order Status,Medium,False
+Q0338,has order ORD-15695 been shipped yet?,Order Status,Medium,False
+Q0339,"Terrible packaging, carbon brushes were broken when the box was opened.",Complaint,High,False
+Q0340,"I placed an order ORD-81426 5 days back, when will it be delivered?",Order Status,Medium,False
+Q0341,"Kindly quote your best rate for 75 flange couplings, delivery to Chennai.",Quotation,Medium,False
+Q0342,I need a quotation for 300 rubber grommets.,Quotation,Medium,False
+Q0343,The flange couplings does not match the specifications quoted earlier.,Complaint,High,False
+Q0344,Order ORD-57052 was supposed to arrive 3 days ago.,Order Status,Medium,False
+Q0345,"Order ORD-69429 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0346,"Kindly quote your best rate for 2000 ball bearings (SKF 6205), delivery to Chennai.",Quotation,Medium,False
+Q0347,What is the status of my oder ORD-44671?,Order Status,Medium,False
+Q0348,"Hi, need a formal quotation for 2000 industrial gaskets for our upcoming project.",Quotation,Medium,False
+Q0349,What is the status of my order ORD-59823?,Order Status,High,False
+Q0350,What would be the cost for 1000 solenoid valves including GST?,Quotation,Medium,False
+Q0351,"I want a refund for order ORD-84364, the quality is very poor.",Complaint,High,False
+Q0352,Is order ORD-56566 delayed? We haven't received any notification.,Order Status,Low,False
+Q0353,"Please update me on order ORD-79514, it's been 5 days",Order Status,Medium,False
+Q0354,"Requesting revised quotation, last quote for rubber grommets has expired.",Quotation,Medium,False
+Q0355,order ORD-11504 was supposed to arrive 3 days ago.,Order Status,Medium,False
+Q0356,Order ORD-74686 was supposed to arrive 2 weeks ago.,Order Status,Medium,False
+Q0357,"my order ORD-40512 has not arrived yet, please check.",Order Status,Medium,False
+Q0358,"Order ORD-18675 arrived with wrong items, very disappointed",Complaint,High,False
+Q0359,Can I visit your warehouse to see samples of control relays?,General Enquiry,Low,False
+Q0360,"Send quotation asap for 75 hydraulic seals, comparing with another vendor",Quotation,High,False
+Q0361,"Extremely unhappy with the service, order ORD-93748 was delivered incomplete",Complaint,High,False
+Q0362,Do you export flange couplings outside India?,General Enquiry,Medium,False
+Q0363,Can I visit your warehouse to see samples of industrial gaskets?,General Enquiry,Low,False
+Q0364,"Requesting price list for brass connectors, quantity around 2000 pcs.",Quotation,Medium,False
+Q0365,"We are looking to procure 100 M8 hex bolts, kindly send your best quote.",Quotation,Medium,False
+Q0366,"Please update me on order ORD-40021, it's been 3 days.",Order Status,Medium,False
+Q0367,Can I visit your warehouse to see samples of conveyor belts?,General Enquiry,Low,False
+Q0368,I am cancelling future orders unless order ORD-30730 issue is resolved.,Complaint,High,False
+Q0369,What is the warranty period on solenoid valves?,General Enquiry,Low,False
+Q0370,The solenoid valves stopped working within 3 days of delivery.,Complaint,Medium,False
+Q0371,The solenoid valves does not match the specifications quoted earlier.,Complaint,Medium,False
+Q0372,I need a quotation for 100 ball bearings (SKF 6205),Quotation,Medium,False
+Q0373,What is the warranty period on cable glands?,General Enquiry,Low,False
+Q0374,Do you offer discount for 20+ units of industrial gaskets?,Quotation,Low,False
+Q0375,Order ORD-17592 shows dispatched but tracking is not updating.,Order Status,Medium,False
+Q0376,"The servo motors I recieved is damaged, this is unacceptable.",Complaint,High,False
+Q0377,"Need quotation urgently, 75 timing belts required for a tender submission.",Quotation,Low,False
+Q0378,Could you provide bulk pricing if we oder 75 pressure gauges?,Quotation,Medium,False
+Q0379,What would be teh cost for 500 hydraulic seals including GST?,Quotation,Medium,False
+Q0380,What is the warranty period on flange couplings?,General Enquiry,Low,False
+Q0381,what is the warranty period on stainless steel washers?,General Enquiry,Low,False
+Q0382,"Requesting price list for servo motors, quantity around 5000 pcs.",Quotation,Medium,False
+Q0383,"We received rusted pressure gauges, need immediate replacement.",Complaint,High,False
+Q0384,"Extremely unhappy with the service, order ORD-10425 was delivered incomplete.",Complaint,High,False
+Q0385,"Please update me on order ORD-94012, it's been 3 days.",Order Status,Medium,False
+Q0386,Can I visit your warehouse to see samples of hydraulic seals?,General Enquiry,Low,False
+Q0387,What is the status of my order ORD-23947?,Order Status,Medium,False
+Q0388,The invoice for order ORD-46463 has incorrect GST calculation.,Complaint,Medium,False
+Q0389,"Order ORD-47930 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0390,Do you provide installation support for pressure gauges?,General Enquiry,Low,False
+Q0391,What is the status of my order ORD-73699?,Order Status,Medium,False
+Q0392,"We are looking to procure 500 carbon brushes, kindy send your best quote.",Quotation,Medium,False
+Q0393,"Terrible packaging, control relays were broken when the box was opened.",Complaint,High,False
+Q0394,Can you track order ORD-42098 for me?,Order Status,Low,False
+Q0395,Precision Tools Co would like a quote for 100 industrial gaskets with payment terms.,Quotation,High,False
+Q0396,can you track order ORD-52504 for me?,Order Status,Low,False
+Q0397,Kindly share the courier tracking number for order ORD-16006,Order Status,Low,False
+Q0398,"Hi, need a formal quotation for 500 stainless steel washers for our upcoming project.",Quotation,Medium,False
+Q0399,"Requesting revised quotation, last quote for brass connectors has expired.",Quotation,Medium,False
+Q0400,What is the status of my order ORD-82512?,Order Status,Medium,False
+Q0401,Do you export stainless steel washers outside India?,General Enquiry,Medium,False
+Q0402,What is the status of my order ORD-19116?,Order Status,Medium,False
+Q0403,"My order ORD-21226 has not arrived yet, please check",Order Status,Medium,False
+Q0404,Can you send me a quote for 2000 units of pressure gauges?,Quotation,Medium,False
+Q0405,do you have a catalogue for servo motors?,General Enquiry,Low,False
+Q0406,"Terrible packaging, timing belts were broken when the box was opened",Complaint,High,False
+Q0407,This is the second time we received defective stainless steel washers from you.,Complaint,High,False
+Q0408,Could you provide bulk pricing if we order 20 timing belts?,Quotation,Medium,False
+Q0409,Is there a minimum order quantity for hydraulic seals?,General Enquiry,Low,False
+Q0410,Is there a minimum order quantity for carbon brushes?,General Enquiry,Low,False
+Q0411,The invoice for order ORD-36062 has incorrect GST calculation.,Complaint,Medium,False
+Q0412,"Order ORD-65392 arrived with wrong items, very disappointed.",Complaint,High,False
+Q0413,"Terrible packaging, cable glands were broken when the box was opened",Complaint,High,False
+Q0414,Is there a minimum oder quantity for brass connectors?,General Enquiry,Low,False
+Q0415,what payment methods do you accept?,General Enquiry,Low,False
+Q0416,just checking if you still manufacture stainless steel washers,General Enquiry,Low,False
+Q0417,Please confirm price and lead time for 300 PVC pipe fittings.,Quotation,Medium,False
+Q0418,I am cancelling future orders unless order ORD-83563 issue is resolved.,Complaint,High,False
+Q0419,Coastal Machinery would like a quote for 100 cable glands with payment terms.,Quotation,Medium,False
+Q0420,"Extremely unhappy with the service, order ORD-23238 was delivered incomplete.",Complaint,High,False
+Q0421,Could you provide bulk pricing if we order 300 M8 hex bolts?,Quotation,High,False
+Q0422,"my order ORD-99192 has not arrived yet, please check.",Order Status,Medium,False
+Q0423,Do you offer discount for 1000+ units of timing belts?,Quotation,Low,False
+Q0424,"We received rusted rubber grommets, need immediate replacement.",Complaint,Medium,False
+Q0425,Can you track order ORD-44671 for me?,Order Status,Low,False
+Q0426,Is order ORD-37653 delayed? We haven't received any notification,Order Status,High,False
+Q0427,Do you provide installation support for control relays?,General Enquiry,Low,False
+Q0428,"I want a refund for order ORD-96474, the quality is very poor.",Complaint,High,False
+Q0429,do you offer discount for 75+ units of hydraulic seals?,Quotation,Low,False
+Q0430,What is the warranty period on PVC pipe fittings?,General Enquiry,Low,False
+Q0431,Can I visit your warehouse to see samples of stainless steel washers?,General Enquiry,Low,False
+Q0432,Is order ORD-91959 delayed? We haven't received any notification,Order Status,High,False
+Q0433,"The PVC pipe fittings I received is damaged, this is unacceptable",Complaint,High,False
+Q0434,Your team never responded to my last 3 emails about order ORD-93886.,Complaint,High,False
+Q0435,can you send me a quote for 1000 units of solenoid valves?,Quotation,Medium,False
+Q0436,The rubber grommets does not match the specifications quoted earlier.,Complaint,High,False
+Q0437,Is there a minimum order quantity for timing belts?,General Enquiry,Low,False
+Q0438,The aluminium extrusions does not match the specifications quoted earlier.,Complaint,High,False
+Q0439,Could you provide bulk pricing if we order 5000 hydraulic seals?,Quotation,Medium,False
+Q0440,Can you send me a quote for 75 units of servo motors?,Quotation,Medium,False
+Q0441,Order ORD-42325 shows dispatched but tracking is not updating,Order Status,Medium,False
+Q0442,do you provide installation support for M8 hex bolts?,General Enquiry,Low,False
+Q0443,"Send quotation asap for 50 flange couplings, comparing with another vendor",Quotation,High,False
+Q0444,What would be the cost for 50 control relays including GST?,Quotation,Medium,False
+Q0445,SS Traders would like a quote for 20 stainless steel washers with payment terms.,Quotation,Medium,False
+Q0446,When can I expect delivery of order ORD-65392?,Order Status,Medium,False
+Q0447,Can I visit your warehouse to see samples of 3-phase contactors?,General Enquiry,Low,False
+Q0448,"Send quotation asap for 1000 timing belts, comparing with another vendor.",Quotation,High,False
+Q0449,Do you have a catalogue for control relays?,General Enquiry,Low,False
+Q0450,"Terrible packaging, solenoid valves were broken when the box was opened.",Complaint,High,False
+Q0451,"Extremely unhappy with the service, order ORD-44718 was delivered incomplete.",Complaint,High,False
+Q0452,"We received rusted circuit breakers, need immediate replacement.",Complaint,High,False
+Q0453,"Hi, need a formal quotation for 5000 timing belts for our upcoming project",Quotation,Medium,False
+Q0454,Do you export solenoid valves outside India?,General Enquiry,Medium,False
+Q0455,"Send quotation asap for 100 carbon brushes, comparing with another vendor.",Quotation,High,False
+Q0456,The timing belts stopped working within a month of delivery.,Complaint,Medium,False
+Q0457,Please confirm price and lead time for 300 carbon brushes.,Quotation,High,False
+Q0458,"Please update me on order ORD-70217, it's been a month.",Order Status,Medium,False
+Q0459,has order ORD-24621 been shipped yet?,Order Status,Medium,False
+Q0460,Do you have a catalogue for M8 hex bolts?,General Enquiry,Low,False
+Q0461,"Charged extra amount than quoted for order ORD-23947, please explain.",Complaint,Medium,False
+Q0462,Order ORD-36062 shows dispatched but tracking is not updating.,Order Status,Medium,False
+Q0463,Can you send me a quote for 1000 units of PVC pipe fittings?,Quotation,Medium,False
+Q0464,"Kindly quote your best rate for 20 cable glands, delivery to Chennai.",Quotation,Medium,False
+Q0465,"I want a refund for order ORD-75612, the quality is very poor.",Complaint,High,False
+Q0466,Do you export brass connectors outside India?,General Enquiry,Medium,False
+Q0467,the invoice for order ORD-98696 has incorrect GST calculation.,Complaint,Medium,False
+Q0468,"Order ORD-89840 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0469,Do you have a catalogue for aluminium extrusions?,General Enquiry,Low,False
+Q0470,"Please update me on order ORD-57819, it's been a month.",Order Status,Medium,False
+Q0471,"Charged extra amount than quoted for order ORD-59823, please explain",Complaint,Medium,False
+Q0472,"requesting revised quotation, last quote for stainless steel washers has expired.",Quotation,Low,False
+Q0473,"extremely unhappy with the service, order ORD-24371 was delivered incomplete",Complaint,High,False
+Q0474,Your team never responded to my last 3 emails about order ORD-99353,Complaint,High,False
+Q0475,This is the second time we received defective pressure gauges from you,Complaint,High,False
+Q0476,what is the warranty period on carbon brushes?,General Enquiry,Low,False
+Q0477,"Still waiting for order ORD-55082, any update?",Order Status,Medium,False
+Q0478,do you export flange couplings outside India?,General Enquiry,Medium,False
+Q0479,When can I expect delivery of oder ORD-12552?,Order Status,Medium,False
+Q0480,Just checking if you still manufacture 3-phase contactors.,General Enquiry,Low,False
+Q0481,"We are looking to procure 250 flange couplings, kindly send your best quote",Quotation,High,False
+Q0482,"Hi, need a formal quotation for 50 pressure gauges for our upcoming project.",Quotation,Medium,False
+Q0483,"Order ORD-89131 arrived with wrong items, very disappointed",Complaint,High,False
+Q0484,"Terrible packaging, timing belts were broken when the box was opened.",Complaint,High,False
+Q0485,Has order ORD-23396 been shipped yet?,Order Status,Medium,False
+Q0486,"kindly quote your best rate for 5000 timing belts, delivery to Chennai.",Quotation,Medium,False
+Q0487,"my order ORD-26483 has not arrived yet, please check.",Order Status,Medium,False
+Q0488,This is the second time we received defective ball bearings (SKF 6205) from you.,Complaint,High,False
+Q0489,Could you provide bulk pricing if we order 300 servo motors?,Quotation,Medium,False
+Q0490,"Terrible packaging, carbon brushes were broken when the box was opened",Complaint,High,False
+Q0491,Just checking if you still manufacture cable glands.,General Enquiry,Low,False
+Q0492,The brass connectors does not match the specifications quoted earlier.,Complaint,High,False
+Q0493,"Very poor experience, escalating this complaint to your manager",Complaint,High,False
+Q0494,this is the second time we received defective conveyor belts from you.,Complaint,High,False
+Q0495,What is the warranty period on circuit breakers?,General Enquiry,Low,False
+Q0496,Please confirm price and lead time for 2000 hydraulic seals.,Quotation,Low,False
+Q0497,i am cancelling future orders unless order ORD-22676 issue is resolved,Complaint,High,False
+Q0498,Can you track order ORD-26828 for me?,Order Status,Low,False
+Q0499,"I want a refund for order ORD-99192, the quality is very poor",Complaint,High,False
+Q0500,"Order ORD-21395 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0501,Do you offer discount for 100+ units of carbon brushes?,Quotation,Low,False
+Q0502,"Kindly quote your best rate for 500 control relays, delivery to Chennai.",Quotation,Medium,False
+Q0503,Do you export industrial gaskets outside India?,General Enquiry,Medium,False
+Q0504,Could you provide bulk pricing if we order 1000 carbon brushes?,Quotation,Medium,False
+Q0505,"Requesting revised qutation, last quote for 3-phase contactors has expired",Quotation,Medium,False
+Q0506,"Still waiting for order ORD-98696, any update?",Order Status,Medium,False
+Q0507,Is order ORD-89131 delayed? We haven't received any notification.,Order Status,High,False
+Q0508,"Order ORD-37653 arrived with wrong items, very disappointed.",Complaint,High,False
+Q0509,"Hi, need a formal quotation for 500 industrial gaskets for our upcoming project",Quotation,Medium,False
+Q0510,"Kindly quote your best rate for 250 hydraulic seals, delivery to Chennai.",Quotation,Medium,False
+Q0511,"My order ORD-60019 has not arrived yet, please check",Order Status,Medium,False
+Q0512,"I placed an order ORD-25014 3 days back, when will it be delivered?",Order Status,Medium,False
+Q0513,"My order ORD-94012 has not arrived yet, pls check.",Order Status,Medium,False
+Q0514,Can you track order ORD-44993 for me?,Order Status,Low,False
+Q0515,Order ORD-18675 was supposed to arrive 5 days ago.,Order Status,Medium,False
+Q0516,"Send quotation asap for 75 pressure gauges, comparing with another vendor.",Quotation,High,False
+Q0517,Do you offer discount for 250+ units of brass connectors?,Quotation,Low,False
+Q0518,Can you send me a quote for 20 units of flange couplings?,Quotation,Medium,False
+Q0519,This is the second time we received defective servo motors from you.,Complaint,High,False
+Q0520,"My order ORD-82357 has not arrived yet, please check.",Order Status,High,False
+Q0521,"Very poor experience, escalating this complaint to your manager.",Complaint,High,False
+Q0522,Do you have a catalogue for ball bearings (SKF 6205)?,General Enquiry,Low,False
+Q0523,Please confirm price and lead time for 300 3-phase contactors.,Quotation,Medium,False
+Q0524,"I need urgent update on order ORD-83000, production is stalled without it.",Order Status,High,False
+Q0525,The timing belts stopped working within 3 days of delivery.,Complaint,High,False
+Q0526,"We received rusted control relays, need immediate replacement",Complaint,High,False
+Q0527,"Hi, need a formal quotation for 5000 timing belts for our upcoming project.",Quotation,Medium,False
+Q0528,What is the warranty period on M8 hex bolts?,General Enquiry,Low,False
+Q0529,"the flange couplings I received is damaged, this is unacceptable.",Complaint,High,False
+Q0530,can I visit your warehouse to see samples of circuit breakers?,General Enquiry,Low,False
+Q0531,The 3-phase contactors stopped working within a week of delivery,Complaint,High,False
+Q0532,Kindly share the courier tracking number for order ORD-18675.,Order Status,Low,False
+Q0533,What is teh warranty period on stainless steel washers?,General Enquiry,Low,False
+Q0534,I am cancelling future orders unless order ORD-26483 issue is resolved.,Complaint,High,False
+Q0535,Has order ORD-49117 been shipped yet?,Order Status,Medium,False
+Q0536,the invoice for order ORD-84341 has incorrect GST calculation,Complaint,Medium,False
+Q0537,"The M8 hex bolts I received is damaged, this is unacceptable.",Complaint,High,False
+Q0538,"Requesting price list for brass connectors, quantity around 50 pcs.",Quotation,Medium,False
+Q0539,Kindly share the courier tracking number for order ORD-71348.,Order Status,Low,False
+Q0540,what is your return policy?,General Enquiry,Low,False
+Q0541,"My order ORD-75435 has not arrived yet, please check",Order Status,Medium,False
+Q0542,order ORD-96474 was supposed to arrive 5 days ago.,Order Status,Medium,False
+Q0543,"The 3-phase contactors I received is damaged, this is unacceptable.",Complaint,High,False
+Q0544,Kindly share the courier tracking number for order ORD-97841.,Order Status,Low,False
+Q0545,I am cancelling future orders unless order ORD-22676 issue is resolved.,Complaint,High,False
+Q0546,Can I visit your warehouse to see samples of carbon brushes?,General Enquiry,Low,False
+Q0547,Has order ORD-32431 been shipped yet?,Order Status,Medium,False
+Q0548,"my order ORD-42087 has not arrived yet, please check.",Order Status,Medium,False
+Q0549,"I placed an order ORD-70589 5 days back, when will it be delivered?",Order Status,Medium,False
+Q0550,What is the status of my order ORD-28726?,Order Status,Medium,False
+Q0551,Is order ORD-88907 delayed? We haven't received any notification.,Order Status,High,False
+Q0552,When can I expect delivery of order ORD-26361?,Order Status,High,False
+Q0553,Do you have a catalogue for pressure gauges?,General Enquiry,Low,False
+Q0554,Do you have a catalogue for circuit breakers?,General Enquiry,Low,False
+Q0555,"Terrible packaging, M8 hex bolts were broken when the box was opened.",Complaint,High,False
+Q0556,Kindly share the courier tracking number for order ORD-23396.,Order Status,Low,False
+Q0557,"Charged extra amount than quoted for order ORD-28289, please explain.",Complaint,Medium,False
+Q0558,Just checking if you still manufacture control relays.,General Enquiry,Low,False
+Q0559,Is there a minimum order quantity for rubber grommets?,General Enquiry,Low,False
+Q0560,Do you export carbon brushes outside India?,General Enquiry,Medium,False
+Q0561,Do you provide installation support for rubber grommets?,General Enquiry,Low,False
+Q0562,"Charged extra amount than quoted for order ORD-19358, please explain",Complaint,Medium,False
+Q0563,"Requesting revised quotation, last quote for conveyor belts has expired.",Quotation,Medium,False
+Q0564,"i placed an order ORD-44671 5 days back, when will it be delivered?",Order Status,Medium,False
+Q0565,Please share pricing for 20 hydraulic seals for Sunrise Industries.,Quotation,Medium,False
+Q0566,The flange couplings stopped working within 2 weeks of delivery.,Complaint,High,False
+Q0567,please confirm price and lead time for 500 pressure gauges,Quotation,Medium,False
+Q0568,Your team never responded to my last 3 emails about order ORD-45382.,Complaint,High,False
+Q0569,"Requesting price list for ball bearings (SKF 6205), quantity around 500 pcs.",Quotation,Medium,False
+Q0570,Do you have a catalogue for flange couplings?,General Enquiry,Low,False
+Q0571,Do you provide installation support for 3-phase contactors?,General Enquiry,Low,False
+Q0572,Do you have a catalogue for timing belts?,General Enquiry,Low,False
+Q0573,Please share pricing for 250 hydraulic seals for Apex Components.,Quotation,Medium,False
+Q0574,Do you provide installation support for industrial gaskets?,General Enquiry,Low,False
+Q0575,Order ORD-75435 was supposed to arrive 10 days ago.,Order Status,Medium,False
+Q0576,What is your return policy?,General Enquiry,Low,False
+Q0577,The carbon brushes does not match the specifications quoted earlier,Complaint,High,False
+Q0578,"terrible packaging, servo motors were broken when the box was opened",Complaint,High,False
+Q0579,Do you have a catalogue for rubber grommets?,General Enquiry,Low,False
+Q0580,Please share pricing for 20 3-phase contactors for Precision Tools Co.,Quotation,Medium,False
+Q0581,"Order ORD-89507 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0582,"My order ORD-39256 has not arrived yet, please check.",Order Status,Medium,False
+Q0583,can I visit your warehouse to see samples of rubber grommets?,General Enquiry,Low,False
+Q0584,Can you send me a quote for 300 units of cable glands?,Quotation,Medium,False
+Q0585,Could you provide bulk pricing if we order 20 servo motors?,Quotation,Medium,False
+Q0586,What is the warranty period on rubber grommets?,General Enquiry,Low,False
+Q0587,"Charged extra amount than quoted for order ORD-64987, please explain.",Complaint,Medium,False
+Q0588,Precision Tools Co would like a quote for 1000 carbon brushes with payment terms.,Quotation,Medium,False
+Q0589,Do you provide installation support for circuit breakers?,General Enquiry,Low,False
+Q0590,order ORD-57052 shows dispatched but tracking is not updating.,Order Status,Medium,False
+Q0591,"Extremely unhappy with the service, order ORD-37460 was delivered incomplete.",Complaint,High,False
+Q0592,What would be the cost for 2000 aluminium extrusions including GST?,Quotation,Medium,False
+Q0593,"We are looking to procure 20 aluminium extrusions, kindy send your best quote.",Quotation,Medium,False
+Q0594,Could you provide bulk pricing if we order 1000 rubber grommets?,Quotation,Medium,False
+Q0595,Can you send me a quote for 1000 units of cable glands?,Quotation,Medium,False
+Q0596,"Need quotation urgently, 100 conveyor belts required for a tender submission.",Quotation,High,False
+Q0597,Do you offer refunds and also please send quote for replacement units.,Complaint,Medium,True
+Q0598,Kindly share the courier tracking number for order ORD-44741.,Order Status,Low,False
+Q0599,the solenoid valves does not match the specifications quoted earlier.,Complaint,High,False
+Q0600,"my order ORD-46421 has not arrived yet, please check",Order Status,Medium,False
+Q0601,"please update me on order ORD-38893, it's been 3 days.",Order Status,Low,False
+Q0602,the brass connectors stopped working within 10 days of delivery.,Complaint,High,False
+Q0603,"I need urgent update on order ORD-16175, production is stalled without it.",Order Status,High,False
+Q0604,What is the warranty period on timing belts?,General Enquiry,Low,False
+Q0605,This is teh second time we recieved defective carbon brushes from you,Complaint,High,False
+Q0606,"Need qutation urgently, 2000 cable glands required for a tender submission.",Quotation,High,False
+Q0607,Precision Tools Co would like a quote for 5000 conveyor belts with payment terms.,Quotation,Medium,False
+Q0608,The cable glands does not match the specifications quoted earlier.,Complaint,High,False
+Q0609,"We are looking to procure 100 brass connectors, kindly send your best quote.",Quotation,Medium,False
+Q0610,do you provide installation support for flange couplings?,General Enquiry,Low,False
+Q0611,The rubber grommets stopped working within 10 days of delivery.,Complaint,High,False
+Q0612,Please share pricing for 5000 circuit breakers for Balaji Engineering.,Quotation,Medium,False
+Q0613,"Hi, need a formal quotation for 250 pressure gauges for our upcoming project",Quotation,Medium,False
+Q0614,Could you provide bulk pricing if we order 300 pressure gauges?,Quotation,Medium,False
+Q0615,"Kindly quote your best rate for 20 rubber grommets, delivery to Chennai.",Quotation,Medium,False
+Q0616,Your team never responded to my last 3 emails about order ORD-25014.,Complaint,High,False
+Q0617,Order ORD-51245 shows dispatched but tracking is not updating.,Order Status,Medium,False
+Q0618,Do you offer discount for 300+ units of industrial gaskets?,Quotation,Low,False
+Q0619,What would be the cost for 250 pressure gauges including GST?,Quotation,Medium,False
+Q0620,"Requesting price list for circuit breakers, quantity around 300 pcs.",Quotation,Medium,False
+Q0621,"Still waiting for order ORD-46434, any update?",Order Status,Medium,False
+Q0622,When can I expect delivery of order ORD-93227?,Order Status,Medium,False
+Q0623,Kindly share the courier tracking number for order ORD-89131,Order Status,Low,False
+Q0624,I am cancelling future orders unless order ORD-44993 issue is resolved.,Complaint,High,False
+Q0625,This is the second time we received defective pressure gauges from you.,Complaint,High,False
+Q0626,need help,General Enquiry,Medium,True
+Q0627,what is the status of my order ORD-91070?,Order Status,Medium,False
+Q0628,Please confirm price and lead time for 20 brass connectors,Quotation,Medium,False
+Q0629,Can you send me a quote for 2000 units of stainless steel washers?,Quotation,Medium,False
+Q0630,The invoice for order ORD-40512 has incorrect GST calculation.,Complaint,Medium,False
+Q0631,"Please update me on order ORD-91959, it's been 2 weeks.",Order Status,Medium,False
+Q0632,The stainless steel washers does not match the specifications quoted earlier.,Complaint,High,False
+Q0633,vikram Enterprises would like a quote for 2000 circuit breakers with payment terms.,Quotation,Medium,False
+Q0634,Do you deliver to Coimbatore?,General Enquiry,Low,False
+Q0635,"Please update me on order ORD-20328, it's been yesterday.",Order Status,Medium,False
+Q0636,"requesting revised quotation, last quote for carbon brushes has expired",Quotation,Medium,False
+Q0637,do you provide installation support for control relays?,General Enquiry,Low,False
+Q0638,Can we get a dealership for your products in our region?,General Enquiry,Medium,False
+Q0639,do you offer discount for 5000+ units of ball bearings (SKF 6205)?,Quotation,Low,False
+Q0640,Could you provide bulk pricing if we order 75 carbon brushes?,Quotation,Medium,False
+Q0641,Please confirm price and lead time for 250 hydraulic seals.,Quotation,Medium,False
+Q0642,I am cancelling future orders unless order ORD-38893 issue is resolved.,Complaint,High,False
+Q0643,The invoice for order ORD-60432 has incorrect GST calculation.,Complaint,Medium,False
+Q0644,"Extremely unhappy with the service, order ORD-54597 was delivered incomplete",Complaint,High,False
+Q0645,"please update me on order ORD-41571, it's been 10 days.",Order Status,Medium,False
+Q0646,Can you send me a quote for 2000 units of rubber grommets?,Quotation,Medium,False
+Q0647,What is the status of my order ORD-30926?,Order Status,Medium,False
+Q0648,can you share your GST number for our records?,General Enquiry,Low,False
+Q0649,"please update me on order ORD-79163, it's been a month.",Order Status,Medium,False
+Q0650,"Please update me on order ORD-13478, it's been yesterday",Order Status,Medium,False
+Q0651,Do you offer discount for 300+ units of cable glands?,Quotation,Low,False
+Q0652,When can I expect delivery of order ORD-31174?,Order Status,Medium,False
+Q0653,Can I visit your warehouse to see samples of rubber grommets?,General Enquiry,Low,False
+Q0654,when can I expect delivery of order ORD-57819?,Order Status,Medium,False
+Q0655,When can I expect delivery of order ORD-18675?,Order Status,Medium,False
+Q0656,Do you offer discount for 100+ units of flange couplings?,Quotation,Low,False
+Q0657,"Checking if order status page is down, can't track ORD-91823.",Order Status,Low,True
+Q0658,Is there a minimum order quantity for servo motors?,General Enquiry,Low,False
+Q0659,"I want a refund for order ORD-45093, the quality is very poor.",Complaint,High,False
+Q0660,Is there a minimum order quantity for stainless steel washers?,General Enquiry,Low,False
+Q0661,"I want a refund for order ORD-10074, the quality is very poor",Complaint,High,False
+Q0662,"Order ORD-39256 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0663,Just checking if you still manufacture conveyor belts.,General Enquiry,Low,False
+Q0664,Are you open on Saturdays?,General Enquiry,Low,False
+Q0665,"Requesting revised quotation, last quote for hydraulic seals has expired.",Quotation,Medium,False
+Q0666,"Charged extra amount than quoted for order ORD-81426, please explain.",Complaint,Medium,False
+Q0667,"We received rusted hydraulic seals, need immediate replacement.",Complaint,High,False
+Q0668,Sunrise Industries would like a quote for 20 timing belts with payment terms.,Quotation,Medium,False
+Q0669,The invoice for order ORD-84364 has incorrect GST calculation.,Complaint,Medium,False
+Q0670,Just checking if you still manufacture PVC pipe fittings.,General Enquiry,Low,False
+Q0671,Order ORD-31174 was supposed to arrive 2 weeks ago.,Order Status,Medium,False
+Q0672,"Send quotation asap for 75 stainless steel washers, comparing with another vendor.",Quotation,High,False
+Q0673,What is the status of my oder ORD-73699?,Order Status,Medium,False
+Q0674,"Terrible packaging, ball bearings (SKF 6205) were broken when the box was opened",Complaint,High,False
+Q0675,"hi, need a formal quotation for 75 brass connectors for our upcoming project.",Quotation,Medium,False
+Q0676,"Order ORD-80010 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0677,"requesting revised quotation, last quote for solenoid valves has expired",Quotation,Medium,False
+Q0678,"i placed an order ORD-80010 3 days back, when will it be delivered?",Order Status,Medium,False
+Q0679,The industrial gaskets does not match the specifications quoted earlier.,Complaint,High,False
+Q0680,I am cancelling future orders unless order ORD-16175 issue is resolved,Complaint,High,False
+Q0681,Order ORD-28301 was supposed to arrive 3 days ago.,Order Status,Medium,False
+Q0682,"i placed an order ORD-46463 a month back, when will it be delivered?",Order Status,Medium,False
+Q0683,Do you provide installation support for aluminium extrusions?,General Enquiry,Low,False
+Q0684,Please confirm price and lead time for 1000 solenoid valves.,Quotation,High,False
+Q0685,Can I visit your warehouse to see samples of aluminium extrusions?,General Enquiry,Low,False
+Q0686,"Send quotation asap for 2000 cable glands, comparing with another vendor.",Quotation,High,False
+Q0687,"Order ORD-36071 - partial delivery received, where is the rest?",Order Status,Medium,False
+Q0688,What would be the cost for 500 PVC pipe fittings including GST?,Quotation,Medium,False
+Q0689,"Order ORD-41385 arrived with wrong items, very disappointed.",Complaint,High,False
+Q0690,When can I expect delivery of order ORD-25014?,Order Status,Medium,False
+Q0691,"We are looking to procure 1000 pressure gauges, kindly send your best quote.",Quotation,Medium,False
+Q0692,This is the second time we received defective conveyor belts from you.,Complaint,High,False
+Q0693,Please share pricing for 100 stainless steel washers for Precision Tools Co.,Quotation,Medium,False
+Q0694,do you provide installation support for rubber grommets?,General Enquiry,Low,False
+Q0695,Could you provide bulk pricing if we order 75 control relays?,Quotation,Low,False
+Q0696,Do you offer discount for 500+ units of conveyor belts?,Quotation,Low,False
+Q0697,coastal Machinery would like a quote for 20 rubber grommets with payment terms.,Quotation,Medium,False
+Q0698,"Still waiting for order ORD-36071, any update?",Order Status,Low,False
+Q0699,This is the second time we received defective hydraulic seals from you.,Complaint,High,False
+Q0700,Please confirm price and lead time for 250 circuit breakers.,Quotation,Medium,False
